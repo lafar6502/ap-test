@@ -1,0 +1,17 @@
+C:\sbsdev\AutoProtect\AutoProtect.ClaimDetailsService\obj\Debug\AutoProtect.ClaimDetailsService.csprojResolveAssemblyReference.cache
+C:\sbsdev\AutoProtect\AutoProtect.ClaimDetailsService\bin\Debug\AutoProtect.ClaimDetailsService.dll.config
+C:\sbsdev\AutoProtect\AutoProtect.ClaimDetailsService\bin\Debug\AutoProtect.ClaimDetailsService.dll
+C:\sbsdev\AutoProtect\AutoProtect.ClaimDetailsService\bin\Debug\AutoProtect.ClaimDetailsService.pdb
+C:\sbsdev\AutoProtect\AutoProtect.ClaimDetailsService\bin\Debug\AutoProtect.Data.dll
+C:\sbsdev\AutoProtect\AutoProtect.ClaimDetailsService\bin\Debug\AutoProtect.Services.dll
+C:\sbsdev\AutoProtect\AutoProtect.ClaimDetailsService\bin\Debug\FluentNHibernate.dll
+C:\sbsdev\AutoProtect\AutoProtect.ClaimDetailsService\bin\Debug\Iesi.Collections.dll
+C:\sbsdev\AutoProtect\AutoProtect.ClaimDetailsService\bin\Debug\NHibernate.dll
+C:\sbsdev\AutoProtect\AutoProtect.ClaimDetailsService\bin\Debug\AutoProtect.Data.pdb
+C:\sbsdev\AutoProtect\AutoProtect.ClaimDetailsService\bin\Debug\AutoProtect.Services.pdb
+C:\sbsdev\AutoProtect\AutoProtect.ClaimDetailsService\bin\Debug\FluentNHibernate.pdb
+C:\sbsdev\AutoProtect\AutoProtect.ClaimDetailsService\bin\Debug\FluentNHibernate.xml
+C:\sbsdev\AutoProtect\AutoProtect.ClaimDetailsService\bin\Debug\Iesi.Collections.xml
+C:\sbsdev\AutoProtect\AutoProtect.ClaimDetailsService\bin\Debug\NHibernate.xml
+C:\sbsdev\AutoProtect\AutoProtect.ClaimDetailsService\obj\Debug\AutoProtect.ClaimDetailsService.dll
+C:\sbsdev\AutoProtect\AutoProtect.ClaimDetailsService\obj\Debug\AutoProtect.ClaimDetailsService.pdb

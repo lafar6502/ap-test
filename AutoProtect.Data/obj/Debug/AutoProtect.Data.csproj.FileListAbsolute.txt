@@ -1,0 +1,14 @@
+C:\sbsdev\AutoProtect\AutoProtect.Data\obj\Debug\AutoProtect.Data.csprojResolveAssemblyReference.cache
+C:\sbsdev\AutoProtect\AutoProtect.Data\bin\Debug\AutoProtect.Data.dll
+C:\sbsdev\AutoProtect\AutoProtect.Data\bin\Debug\AutoProtect.Data.pdb
+C:\sbsdev\AutoProtect\AutoProtect.Data\bin\Debug\FluentNHibernate.dll
+C:\sbsdev\AutoProtect\AutoProtect.Data\bin\Debug\Iesi.Collections.dll
+C:\sbsdev\AutoProtect\AutoProtect.Data\bin\Debug\NHibernate.dll
+C:\sbsdev\AutoProtect\AutoProtect.Data\bin\Debug\NLog.dll
+C:\sbsdev\AutoProtect\AutoProtect.Data\bin\Debug\FluentNHibernate.pdb
+C:\sbsdev\AutoProtect\AutoProtect.Data\bin\Debug\FluentNHibernate.xml
+C:\sbsdev\AutoProtect\AutoProtect.Data\bin\Debug\Iesi.Collections.xml
+C:\sbsdev\AutoProtect\AutoProtect.Data\bin\Debug\NHibernate.xml
+C:\sbsdev\AutoProtect\AutoProtect.Data\bin\Debug\NLog.xml
+C:\sbsdev\AutoProtect\AutoProtect.Data\obj\Debug\AutoProtect.Data.dll
+C:\sbsdev\AutoProtect\AutoProtect.Data\obj\Debug\AutoProtect.Data.pdb

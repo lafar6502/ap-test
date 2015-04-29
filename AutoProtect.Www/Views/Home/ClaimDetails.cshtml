@@ -1,0 +1,34 @@
+﻿@model AutoProtect.Www.Models.ClaimModel
+
+@{
+    Layout = null;
+}
+@if (Model.Claim != null) {
+    var c = Model.Claim;
+
+<div>
+    <h3>Claim #@c.Id Details</h3>
+    <div>Claim Amount: @c.Amount</div>
+    <div>Date: @c.ClaimDate</div>
+
+    <h4>Policy holder:</h4>
+    <div>Name: @c.Policy.Holder.FullName</div>
+    <div>Date of birth: @c.Policy.Holder.DOB</div>
+    
+    <h4>Policy details:</h4>
+    <div>Product: @c.Policy.Product.Description</div>
+    <div>Duration (days): @c.Policy.Product.Duration</div>
+    <div>Claim limit: @c.Policy.Product.ClaimLimit</div>
+
+
+    <h4>Vehicle details:</h4>
+    <div>Make: @c.Policy.Vehicle.Make</div>
+    <div>Model: @c.Policy.Vehicle.Model</div>
+    <div>Registration: @c.Policy.Vehicle.Registration</div>
+    
+    
+</div>
+
+} else { 
+     <h4>Claim details not found for ID: @Model.SearchId</h4>   
+}

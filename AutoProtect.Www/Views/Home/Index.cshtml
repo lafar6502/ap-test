@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@section featured {
+    <section class="featured">
+        
+    </section>
+}
+@section scripts {
+    
+<script type="text/javascript">
+    $('#fld_id').change(function () {
+        var id = $('#fld_id').val();
+        
+        $.ajax({
+            url: "/Home/ClaimDetails/" + id,
+            success: function (dt) {
+                //alert('succ ' + dt);
+                $('#claimContent').html(dt);
+            }
+        });
+    });
+</script>
+
+}
+<form>
+    <span>Claim ID:</span>
+    <input type="text" name="id" id="fld_id" />
+
+
+</form>
+<div id="claimContent">
+
+</div>
+
